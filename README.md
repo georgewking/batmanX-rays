@@ -1,6 +1,6 @@
 # X-ray transits with batman
 
-An adaption of [batman](https://github.com/lkreidberg/batman) for generating X-ray transit light curves, using a basic coronal emission model. You can find the paper detailing our model and discussing some of the examples presented here on NASA ADS (*link to be added - paper currently in review with AAS Journals*)
+An adaption of [batman](https://github.com/lkreidberg/batman) for generating X-ray transit light curves, using a basic coronal emission model. You can find the paper detailing our model and discussing some of the examples presented here on NASA ADS (*link to be added - paper accepted to AAS Journals and will be published imminently*)
 
 We thank Laura Kreidberg for providing the community with this excellent package, and her ongoing support of it. Her 2015 paper describing batman can be found [here](https://ui.adsabs.harvard.edu/abs/2015PASP..127.1161K/abstract)
  
